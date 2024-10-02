@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Stick-It (App)](https://lr-projects.de)
 
-- 🌱 I’m currently learning **Path planning algorithm**
+- 🌱 I’m currently learning **Network security**
 
 - 👯 I’m looking to collaborate on **Anything fun**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Raspberry PIs**
 
-- 📫 How to reach me **lr.dev.projects@gmail.com**
+- 📫 How to reach me **info@lr-projects.de**
 
 - ⚡ Fun fact **I started working on my Temperature Project when I was 14**
 
