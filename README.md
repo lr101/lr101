@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lr101&label=Profile%20views&color=0e75b6&style=flat" alt="lr101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lr101" alt="lr101" /></a> </p>
 # 💫 About Me:
 I’m a computer science student from Germany, studying at HKA in Karlsruhe. I’m the developer of Stick-It Map, an app for mapping and sharing images of stickers.<br><br>I’ve worked on a bunch of projects in backend web development and love tinkering with Raspberry Pis and OpenCV.<br><br>Right now, I’m focused on improving Stick-It Map and learning more about networking and network security.<br><br>Check out my projects and feel free to reach out if you want to chat or collaborate!
 
