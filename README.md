@@ -11,10 +11,11 @@ I’m a computer science student from Germany, studying at HKA in Karlsruhe.<br>
 | [Stick-It App](https://github.com/lr101/stick-it)     | Stick-It is a Flutter app for posting and sharing locations and images of stickers.|
 | [homelab_templates](https://github.com/lr101/homelab_templates) | Setup templates for all the projects hosted in my homelab.|
 | [TempServer](https://github.com/lr101/TempServer) | Backend and frontend storing and managing ds18b20 and dh11 sensor information and values.|
-| iwi_bulletinboard [backend](https://github.com/lr101/iwi_bulletinboard_backend) & [app](https://github.com/lr101/iwi_bulletinboard) | Publishes and shows new uni bulletinboard push notifications. |
+| Iwi_bulletinboard [backend](https://github.com/lr101/iwi_bulletinboard_backend) & [app](https://github.com/lr101/iwi_bulletinboard) | Publishes and shows new uni bulletinboard push notifications. |
 | [PictureCollage](https://github.com/PictureCollage) | Generates an automatic collage from pictures saved on your PC.|
 | [OS Filesystem](https://github.com/lr101/bslab_privat) | We build an inode based file system as a uni projects in c++ |
-| [packet-tracer-org](https://github.com/lr101/packet-tracer-org) |A real-life organization structure and network security implementation in packet tracer. |
+| [Packet-tracer-org](https://github.com/lr101/packet-tracer-org) |A real-life organization structure and network security implementation in packet tracer. |
+| [Portfolio](https://github.com/lr101/portfolio) | My portfolio website, written in Nextjs. |
 
 
 # 💻 Tech Stack:
