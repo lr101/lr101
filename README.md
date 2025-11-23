@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lr101&label=Profile%20views&color=0e75b6&style=flat" alt="lr101" /> </p>
 
 # 💫 About Me:
-I’m a computer science student from Germany, studying at HKA in Karlsruhe.<br><br>I’ve worked on a bunch of projects in backend web development and love tinkering with Raspberry Pis and my homelab setup.
+I’m a computer science student from Germany.<br><br>I’ve worked on a bunch of projects in backend web development and love tinkering with Raspberry Pis and my homelab setup.
 
 | Repository                                  | Description                                                                                                                               |
 | :------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
