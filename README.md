@@ -7,6 +7,7 @@ I’m a computer science student from Germany.<br><br>I’ve worked on a bunch o
 
 | Repository                                  | Description                                                                                                                               |
 | :------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| [Homelab](https://github.com/lr101/homelab) | My complete homelab configuration - using docker compose and restic for 3-2-1 backup |
 | [Stick-It Backend](https://github.com/lr101/MonaServer) | Backend for the Stick-It app implementing operations on user and image data.|
 | [Stick-It App](https://github.com/lr101/stick-it)     | Stick-It is a Flutter app for posting and sharing locations and images of stickers.|
 | [homelab_templates](https://github.com/lr101/homelab_templates) | Setup templates for all the projects hosted in my homelab.|
